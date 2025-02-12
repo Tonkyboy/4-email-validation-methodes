@@ -1,7 +1,7 @@
 # Here is the code used in my Youtube video About 4 Email Validation Methodes in Python
 # Video
 Video is here, check it out!
-[Getting Started with DeepSeek R1 AI: Python Tutorial for Text and Stream Responses](https://youtu.be/PhUQCETR-w4)
+[How to Validate Emails in Python: 4 Techniques Every Developer Should Know](https://youtu.be/coxvj8_x6QY)
 
 ## Basic Code
 -> main.py
